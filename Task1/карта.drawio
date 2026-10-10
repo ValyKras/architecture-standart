@@ -1,0 +1,241 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="_lHZyTsCcXEeDCRhb2ar">
+    <mxGraphModel dx="1884" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-1" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;fontSize=16;" value="Карта текущего IT-ландшафта" vertex="1">
+          <mxGeometry height="840" width="1380" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-2" parent="MwcM9yNLByXmOt8q5ct5-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="80" width="1380" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-3" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="80" width="140" as="geometry">
+            <mxRectangle height="80" width="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-4" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Продажи в сети отделений&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="140" as="geometry">
+            <mxRectangle height="80" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-5" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Продажи через кол‑центр&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="330" as="geometry">
+            <mxRectangle height="80" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-6" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Digital‑оповещения клиентов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="540" as="geometry">
+            <mxRectangle height="80" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-7" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Обслуживание депозитных процессов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="740" as="geometry">
+            <mxRectangle height="80" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-8" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Обслуживание кредитных процессов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="970" as="geometry">
+            <mxRectangle height="80" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-9" parent="MwcM9yNLByXmOt8q5ct5-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Управление договорами&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="1210" as="geometry">
+            <mxRectangle height="80" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-10" parent="MwcM9yNLByXmOt8q5ct5-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="200" width="1380" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-11" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;font-weight: 700; color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Кол‑центр&lt;/span&gt;" vertex="1">
+          <mxGeometry height="200" width="140" as="geometry">
+            <mxRectangle height="200" width="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-12" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="200" width="190" x="140" as="geometry">
+            <mxRectangle height="200" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-13" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Система кол‑центра (React.js, Java Spring Boot, PostgreSQL, микросервисы)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Ручное заведение обращений&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Передача в АБС (интеграция)&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Консультации без доступа к расчётам ставок&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="200" width="210" x="330" as="geometry">
+            <mxRectangle height="200" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-14" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="200" width="200" x="540" as="geometry">
+            <mxRectangle height="200" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-15" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="200" width="230" x="740" as="geometry">
+            <mxRectangle height="200" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-16" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="200" width="240" x="970" as="geometry">
+            <mxRectangle height="200" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-17" parent="MwcM9yNLByXmOt8q5ct5-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="200" width="170" x="1210" as="geometry">
+            <mxRectangle height="200" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-18" parent="MwcM9yNLByXmOt8q5ct5-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="120" width="1380" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-19" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;font-weight: 700; color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Сеть отделений (фронт‑офис)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="140" as="geometry">
+            <mxRectangle height="120" width="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-20" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;АБС (Delphi‑клиент, Oracle, PL‑SQL)&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Сканирование и загрузка документов в АБС&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="190" x="140" as="geometry">
+            <mxRectangle height="120" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-21" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="120" width="210" x="330" as="geometry">
+            <mxRectangle height="120" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-22" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="120" width="200" x="540" as="geometry">
+            <mxRectangle height="120" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-23" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Ожидание согласования ставок (почта)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Обработка заявок со спецставками (до 1 часа)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Создание депозита в АБС&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="230" x="740" as="geometry">
+            <mxRectangle height="120" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-24" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="120" width="240" x="970" as="geometry">
+            <mxRectangle height="120" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-25" parent="MwcM9yNLByXmOt8q5ct5-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Подписание документов с клиентом&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Загрузка сканов в АБС&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="170" x="1210" as="geometry">
+            <mxRectangle height="120" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-26" parent="MwcM9yNLByXmOt8q5ct5-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="140" width="1380" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-27" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;font-weight: 700; color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Отдел кредитования&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="140" as="geometry">
+            <mxRectangle height="140" width="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-28" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="140" width="190" x="140" as="geometry">
+            <mxRectangle height="140" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-29" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="140" width="210" x="330" as="geometry">
+            <mxRectangle height="140" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-30" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="140" width="200" x="540" as="geometry">
+            <mxRectangle height="140" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-31" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Расчёт спецставок на основе кредитного риска&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Передача данных в письмах сотрудникам депозитов&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="230" x="740" as="geometry">
+            <mxRectangle height="140" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-32" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;АБС (Oracle, PL‑SQL)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Расчёт ставок в Excel&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Ежедневная выгрузка в Excel‑файл&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Передача файла в бэк‑офис по почте&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="240" x="970" as="geometry">
+            <mxRectangle height="140" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-33" parent="MwcM9yNLByXmOt8q5ct5-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="140" width="170" x="1210" as="geometry">
+            <mxRectangle height="140" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-34" parent="MwcM9yNLByXmOt8q5ct5-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
+          <mxGeometry height="130" width="1380" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-35" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;font-weight: 700; color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Бэк‑офис (депозиты)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="140" as="geometry">
+            <mxRectangle height="130" width="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-36" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="130" width="190" x="140" as="geometry">
+            <mxRectangle height="130" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-37" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Обработка заявок из кол‑центра в АБС&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Определение ставок для таких клиентов&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="130" width="210" x="330" as="geometry">
+            <mxRectangle height="130" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-38" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="130" width="200" x="540" as="geometry">
+            <mxRectangle height="130" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-39" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Расчёт ставок в Excel (на основе Excel‑файла от кредитов)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Согласование спецставок (переписка)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Ввод ставок в АБС&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="130" width="230" x="740" as="geometry">
+            <mxRectangle height="130" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-40" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="130" width="240" x="970" as="geometry">
+            <mxRectangle height="130" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-41" parent="MwcM9yNLByXmOt8q5ct5-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Проверка и загрузка документов (если требуется)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="170" x="1210" as="geometry">
+            <mxRectangle height="130" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-42" parent="MwcM9yNLByXmOt8q5ct5-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="140" width="1380" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-43" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;font-weight: 700; color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;IT‑подразделение / DevOps&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="140" as="geometry">
+            <mxRectangle height="140" width="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-44" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" vertex="1">
+          <mxGeometry height="140" width="190" x="140" as="geometry">
+            <mxRectangle height="140" width="190" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-45" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" vertex="1">
+          <mxGeometry height="140" width="210" x="330" as="geometry">
+            <mxRectangle height="140" width="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-46" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;СМС‑шлюз телеком‑оператора&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Интеграция СМС‑шлюза с АБС&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Поддержка канала отправки СМС&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="200" x="540" as="geometry">
+            <mxRectangle height="140" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-47" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Поддержка интеграции АБС, Excel, почты&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; background-color: rgb(255, 255, 255);&quot;&gt;Ручные выгрузки/загрузки данных&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="230" x="740" as="geometry">
+            <mxRectangle height="140" width="230" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-48" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" vertex="1">
+          <mxGeometry height="140" width="240" x="970" as="geometry">
+            <mxRectangle height="140" width="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MwcM9yNLByXmOt8q5ct5-49" parent="MwcM9yNLByXmOt8q5ct5-42" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;pointerEvents=1;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;YS Geo&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.208px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Поддержка электронного архива документов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="1210" as="geometry">
+            <mxRectangle height="140" width="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
